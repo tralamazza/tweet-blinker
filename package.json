@@ -1,0 +1,18 @@
+{
+  "name": "tweet-blinker",
+  "version": "0.0.1",
+  "description": "when jsconf 2013 gives you arduinos, make a blinker",
+  "main": "index.js",
+  "dependencies": {
+    "firmata": "~0.2.6",
+    "tuiter": "~0.2.8",
+    "eyes": "~0.1.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/tralamazza/tweet-blinker",
+  "author": "Daniel Tralamazza",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
