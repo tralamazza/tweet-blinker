@@ -18,3 +18,5 @@ All hail a useless twitter stream listener arduino blinker \o/
 }
 ```
 * `node index.js` and let it blink whenever someone tweets #jsconf.
+
+* You can pass the USB port in the 1st argument `node index.js /dev/ttyUSB` (defaults to */dev/ttyACM0*)
